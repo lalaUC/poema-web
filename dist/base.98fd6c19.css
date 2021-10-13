@@ -10,16 +10,16 @@
 
 body {
 	margin: 0;
-	--color-text: #111110;
-	--color-bg: #E9E6E2;
-	--color-link: #000;
-	--color-link-hover: #111110;
+	--color-text: #ffffff;
+	--color-bg: #000000;
+	--color-link: rgb(255, 255, 255);
+	--color-link-hover: #ffffff;
 	--image-height-start: 555px;
 	--image-width-end: 260px;
 	--image-height-end: 320px;
 	--image-offset: 50px;
 	--meta-offset: 40px;
-	--color-footer-bg: #dad6cf;
+	--color-footer-bg: #000000;
 	--content-padding: 50px;
 	--content-width: 850px;
 	color: var(--color-text);
